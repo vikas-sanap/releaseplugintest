@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>name.abenthung</groupId>
 	<artifactId>releaseplugintest</artifactId>
-	<version>0.0.3-SNAPSHOT</version>
+	<version>0.0.4-SNAPSHOT</version>
 	<name>Maven Release Plugin Test</name>
 	<description>The purpose of this project is symply to test the Maven Release Plugin</description>
 	<url>https://github.com/tarator/releaseplugintest</url>
@@ -43,7 +43,7 @@
 				<version>2.4.2</version>
 				<configuration>
 					<localCheckout>true</localCheckout>
-					<pushChanges>false</pushChanges>
+					<pushChanges>true</pushChanges>
 				</configuration>
 			</plugin>
 		</plugins>
