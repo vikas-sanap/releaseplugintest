@@ -1,0 +1,17 @@
+<settings>
+  <!-- omitted xml -->
+  <servers>
+    <server>
+      <id>archiva.internal</id>
+      <username>vikas.sanap</username>
+      <password>Iamthe2014</password>
+    </server>
+    <server>
+      <id>archiva.snapshots</id>
+      <username>vikas.sanap</username>
+      <password>Iamthe2014</password>
+    </server>
+    <!-- omitted xml -->
+  </servers>
+  <!-- omitted xml -->
+</settings>

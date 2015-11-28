@@ -13,6 +13,7 @@
 		<url>https://github.com/vikas-sanap/releaseplugintest</url>
 		<tag>releaseplugintest-1.0.0</tag>
 	</scm>
+	<!--
 	<distributionManagement>
 		<repository>
 			<id>fakerepo</id>
@@ -25,6 +26,20 @@
 			<url>file:///home/gslab/snapshots</url>
 		</snapshotRepository>
 	</distributionManagement>
+	-->
+
+	<distributionManagement>
+    <repository>
+      <id>archiva.internal</id>
+      <name>Internal Release Repository</name>
+      <url>http://10.71.71.197:8081/archiva/repository/internal/</url>
+    </repository>
+    <snapshotRepository>
+      <id>archiva.snapshots</id>
+      <name>Internal Snapshot Repository</name>
+      <url>http://10.71.71.197:8081/archiva/repository/snapshots/</url>
+    </snapshotRepository>
+  </distributionManagement>
 
 	<build>
 		<plugins>
