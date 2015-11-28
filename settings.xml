@@ -4,12 +4,12 @@
     <server>
       <id>internal</id>
       <username>vikas.sanap</username>
-      <password>Iamthe2014</password>
+      <password>password</password>
     </server>
     <server>
       <id>snapshots</id>
       <username>vikas.sanap</username>
-      <password>Iamthe2014</password>
+      <password>password</password>
     </server>
     <!-- omitted xml -->
   </servers>
