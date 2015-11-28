@@ -17,12 +17,12 @@
 		<repository>
 			<id>fakerepo</id>
 			<name>Local file system</name>
-			<url>file:///home/tarator/fakerepo</url>
+			<url>file:///home/gslab/repo</url>
 		</repository>
 		<snapshotRepository>
 			<id>fakesnapshotrepo</id>
 			<name>Local file system</name>
-			<url>file:///home/tarator/fakereposnapshots</url>
+			<url>file:///home/gslab/snapshots</url>
 		</snapshotRepository>
 	</distributionManagement>
 
