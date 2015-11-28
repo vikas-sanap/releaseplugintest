@@ -2,12 +2,12 @@
   <!-- omitted xml -->
   <servers>
     <server>
-      <id>archiva.internal</id>
+      <id>Archiva Managed Internal Repository</id>
       <username>vikas.sanap</username>
       <password>Iamthe2014</password>
     </server>
     <server>
-      <id>archiva.snapshots</id>
+      <id>Archiva Managed Snapshot Repository</id>
       <username>vikas.sanap</username>
       <password>Iamthe2014</password>
     </server>
